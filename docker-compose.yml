@@ -1,4 +1,4 @@
 dev:
   build: .
   volumes:
-    - code/:/code
+    - ./code/:/code
